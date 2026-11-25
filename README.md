@@ -1,6 +1,6 @@
 # Claude 런처
 
-**한국어** · [English](README.en.md)
+**한국어** · [English](https://github.com/mingilee97/claude-cli-launcher_english)
 
 Windows에서 [Claude Code](https://claude.com/claude-code) 세션을 프로젝트별로 모아 보고, 고른 세션을 창 안의 터미널 탭에서 바로 여는 프로그램입니다.
 
